@@ -5,9 +5,7 @@ Used fundamentals of Reinforcement Learning (Neural Networks + Q-Learning) to te
 
 Used 11 boolean variables as the input. Training model used 3 fully connected layers (input, hidden, output) . 
 
-![alternativetext](media/Neural_Network.png)
-
-<img src="media/Neural_Network.png" width="880" alt="solidYellowCurve2" />
+<img src="media/Neural _Network.png />
 
 ### Install
 To run this project, you need the following packages
