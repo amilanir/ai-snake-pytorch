@@ -7,7 +7,6 @@ Used 11 boolean variables as the input. Training model used 3 fully connected la
 
 <img src="media/Neural_Network.png />
           
-<img src="Screen_Shot1.png" width="250" />
 
 
 ### Install
