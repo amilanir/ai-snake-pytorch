@@ -7,6 +7,8 @@ Used 11 boolean variables as the input. Training model used 3 fully connected la
 
 ![alternativetext](media/Neural_Network.png)
 
+<img src="media/Neural_Network.png" width="880" alt="solidYellowCurve2" />
+
 ### Install
 To run this project, you need the following packages
 1. Pytorch
